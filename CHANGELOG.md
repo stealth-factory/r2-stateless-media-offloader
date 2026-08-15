@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.5](https://github.com/stealth-factory/r2-stateless-media-offloader/compare/v0.3.4...v0.3.5) (2026-08-15)
+
+
+### Documentation
+
+* rename GitHub org stealth-src/stealth-engine → stealth-factory ([#18](https://github.com/stealth-factory/r2-stateless-media-offloader/issues/18)) ([d03e9b5](https://github.com/stealth-factory/r2-stateless-media-offloader/commit/d03e9b50fec5ce293a538bba4bd90da0e2811bdc))
+
 ## [0.3.4](https://github.com/stealth-factory/r2-stateless-media-offloader/compare/v0.3.3...v0.3.4) (2026-06-17)
 
 
